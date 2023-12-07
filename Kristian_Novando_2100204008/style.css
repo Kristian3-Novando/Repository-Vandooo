@@ -1,0 +1,32 @@
+body{
+	background-color: #E9967A;
+
+}
+
+h1,h3 {
+	text-align: center;
+}
+
+h4 {
+	width: 150px;
+	height: 40px;
+	background-color: #D2691E;
+	color: #fff;
+	text-align: center;
+	padding-top: 20px;
+	margin-left: 100px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+nav {
+	margin-left: 80px;
+	font-family: "Comic Sans MS"
+}
+
+ul {
+	color: red;
+}
+
+header {
+	font-family: "Comic Sans MS"
+}
